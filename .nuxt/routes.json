@@ -1,0 +1,9 @@
+[
+  {
+    "name": "id",
+    "path": "/:id?",
+    "component": "/home/sega/Documents/spb-site/pages/_id.vue",
+    "chunkName": "pages/_id",
+    "_name": "_0ceb896c"
+  }
+]
